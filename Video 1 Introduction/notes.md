@@ -16,7 +16,7 @@ have small ai application module in netflix that do this specific task recommend
 
 2. Self deriving car -> self driving 
 <br> 
-have taht ai applcication that detect roads  
+have that ai applcication that detect roads  
 
 3. amazon.in -> buy iphone -> automatically recommend headphones
 
@@ -46,7 +46,7 @@ have taht ai applcication that detect roads
         ex:-   
         i/p feature = age   
         d/p feature = weight  
-        here weight depend on agae
+        here weight depend on age
             - based on this age value i want to predict what is the weight.  
             - here age is i/p feature because jaise age change hogi waise hi weight bhi chanbe hoga.
             - here i know about my o/p feature.  
