@@ -368,6 +368,9 @@ _image 3_
 ![alt text](3.hypothesis_exam.png)
 - x is data point , input feature
 
+# Variables
+Independent Variable = X = Input Feature
+Dependent Variable = Y = Target/Output
 
 # Outline
 1. Start with 0o and 01 
